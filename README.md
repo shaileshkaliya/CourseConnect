@@ -14,6 +14,21 @@ CourseConnect is a powerful course recommendation system built using the MERN (M
 
 - **User Profiles:** Creating personalized user profiles to fine-tune recommendations based on individual learning goals.
 
+-  ## Screenshots
+- ![Example Image](Screenshots/cc1.png)
+
+- ![Example Image](Screenshots/cc2.png)
+
+- ![Example Image](Screenshots/cc3.png)
+
+- ![Example Image](Screenshots/cc4.png)
+
+- ![Example Image](Screenshots/cc5.png)
+
+- ![Example Image](Screenshots/cc6.png)
+
+- ![Example Image](Screenshots/cc7.png)
+
 ## Technologies Used
 
 - **MongoDB:** Database for storing user profiles, course data, and learning patterns.
