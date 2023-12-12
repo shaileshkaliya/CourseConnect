@@ -42,10 +42,10 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_61mm0uw",
-        "template_l8lkutl",
+        service_id,
+        template_id,
         templateParams,
-        "hgdy7Cuj6bHyfj9eU"
+        public_key
       )
       .then(
         function (response) {
